@@ -1,7 +1,7 @@
-# serenity.qubes
+# radiant.qubes
 
-Serenity:  A platform-independent browser-based interface to data science tools for the classroom.
+Business analytics using R and Shiny. The radiant app combines the menus from radiant.data, radiant.design, radiant.basics, radiant.model, and radiant.multivariate.
 
 This repo contains code for installation and execution on [QUBESHub](https://qubeshub.org).
 
-To try Serenity on QUBES, click [here](https://qubeshub.org/tools/serenity/invoke).  NOTE:  You must have an account (*which is free*) in order to run Serenity on QUBES!
+To try Radiant on QUBES, click [here](https://qubeshub.org/tools/radiant/invoke).  NOTE:  You must have an account (*which is free*) in order to run Radiant on QUBES!
