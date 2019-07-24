@@ -6,7 +6,7 @@
     -u R-3.4.0 \
     -u rstudio-server-1.0.143 \
     -u wrwroxy-0.1 \
-    -w "none" \
+    -w headless \
     -c "xview -fullscreen -onroot @tool/data/radiant_red.png" \
     -c "wrwroxy --stream-log --logfile /dev/null" \
     -C "@tool/bin/wrapprun --port 8001 --type shiny --file @@file(#1) \$env(R_INSTALL_DIR)/lib/R/library/radiant.lite/app" \
